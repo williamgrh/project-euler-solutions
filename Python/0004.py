@@ -5,16 +5,17 @@
 # https://github.com/williamgrh/ProjectEulerSolutions
 #
 
+
 def compute():
     ans, tmp = 0, 0
     for i in range(99, 1000):
         for j in range(99, 1000):
             tmp = i * j
-            if ( is_palindrome(tmp) ):
+            if (is_palindrome(tmp)):
                 if tmp > ans:
                     ans = tmp
     return ans
-    
+
 
 def is_palindrome(n):
     nstr = str(n)
@@ -25,5 +26,4 @@ def is_palindrome(n):
 
 
 if __name__ == "__main__":
-    print ( str( compute() ) )
-    
+    print (str(compute()))

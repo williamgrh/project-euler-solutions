@@ -5,6 +5,7 @@
 # https://github.com/williamgrh/ProjectEulerSolutions
 #
 
+
 def compute():
     ans, a, b = 0, 1, 2
     while a <= 4000000:
@@ -12,6 +13,7 @@ def compute():
             ans += a
         a, b = b, a + b
     return ans
-        
+
+
 if __name__ == "__main__":
-    print ( str( compute() ) )
+    print (str(compute()))

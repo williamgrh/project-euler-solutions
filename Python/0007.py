@@ -7,6 +7,7 @@
 
 import eulerlib
 
+
 def compute():
     ans, count = 1, 0
     while count < 10001:
@@ -17,4 +18,4 @@ def compute():
 
 
 if __name__ == "__main__":
-    print ( str( compute() ) )
+    print (str(compute()))
