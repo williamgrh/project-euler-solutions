@@ -2,7 +2,7 @@
 # 0002 - Even Fibonacci numbers
 #
 # https://projecteuler.net/problem=2
-# https://github.com/williamgrh/ProjectEulerSolutions
+# http://git.wgrh.io/will/project-euler-solutions
 #
 
 

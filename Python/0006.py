@@ -2,7 +2,7 @@
 # 0006 - Sum square difference
 #
 # https://projecteuler.net/problem=6
-# https://github.com/williamgrh/ProjectEulerSolutions
+# http://git.wgrh.io/will/project-euler-solutions
 #
 
 

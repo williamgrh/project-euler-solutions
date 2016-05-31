@@ -2,7 +2,7 @@
 # 0007 - 10001st prime
 #
 # https://projecteuler.net/problem=7
-# https://github.com/williamgrh/ProjectEulerSolutions
+# http://git.wgrh.io/will/project-euler-solutions
 #
 
 import eulerlib

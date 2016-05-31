@@ -2,7 +2,7 @@
 # 0008 - Largest product in a series
 #
 # https://projecteuler.net/problem=8
-# https://github.com/williamgrh/ProjectEulerSolutions
+# http://git.wgrh.io/will/project-euler-solutions
 #
 
 

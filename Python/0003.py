@@ -2,7 +2,7 @@
 # 0003 - Largest prime factor
 #
 # https://projecteuler.net/problem=3
-# https://github.com/williamgrh/ProjectEulerSolutions
+# http://git.wgrh.io/will/project-euler-solutions
 #
 
 import eulerlib

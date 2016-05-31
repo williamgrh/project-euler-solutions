@@ -2,7 +2,7 @@
 # 0004 - Largest palindrome product
 #
 # https://projecteuler.net/problem=4
-# https://github.com/williamgrh/ProjectEulerSolutions
+# http://git.wgrh.io/will/project-euler-solutions
 #
 
 

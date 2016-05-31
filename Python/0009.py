@@ -2,7 +2,7 @@
 # 0009 - Special Pythagorean triplet
 #
 # https://projecteuler.net/problem=9
-# https://github.com/williamgrh/ProjectEulerSolutions
+# http://git.wgrh.io/will/project-euler-solutions
 #
 
 

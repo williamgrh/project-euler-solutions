@@ -2,7 +2,7 @@
 # 0005 - Smallest multiple
 #
 # https://projecteuler.net/problem=5
-# https://github.com/williamgrh/ProjectEulerSolutions
+# http://git.wgrh.io/will/project-euler-solutions
 #
 
 import eulerlib

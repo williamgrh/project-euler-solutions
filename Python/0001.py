@@ -2,7 +2,7 @@
 # 0001 - Multiples of 3 and 5
 #
 # https://projecteuler.net/problem=1
-# https://github.com/williamgrh/ProjectEulerSolutions
+# http://git.wgrh.io/will/project-euler-solutions
 #
 
 

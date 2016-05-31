@@ -2,7 +2,7 @@
 # 0010 - Summation of primes
 #
 # https://projecteuler.net/problem=10
-# https://github.com/williamgrh/ProjectEulerSolutions
+# http://git.wgrh.io/will/project-euler-solutions
 #
 
 import eulerlib
